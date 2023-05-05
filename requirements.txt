@@ -1,0 +1,10 @@
+ipykernel
+psycopg2-binary
+nbformat
+pandas
+numpy
+requests
+boto3
+plotly
+SQLAlchemy
+Scrapy
